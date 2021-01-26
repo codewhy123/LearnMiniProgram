@@ -9,5 +9,7 @@
   </view>
   <view class="usermotto">
     <text class="user-motto">{{motto}}</text>
+    <view>我是知识点1</view>
+    <view>哈哈哈</view>
   </view>
 </view>
